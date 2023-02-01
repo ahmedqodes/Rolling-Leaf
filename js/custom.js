@@ -407,7 +407,7 @@ $(function() {
             "nb_sides": 5
           },
           "image": {
-            "src": "http://wiki.lexisnexis.com/academic/images/f/fb/Itunes_podcast_icon_300.jpg",
+            "src": "https://wiki.lexisnexis.com/academic/images/f/fb/Itunes_podcast_icon_300.jpg",
             "width": 100,
             "height": 100
           }
